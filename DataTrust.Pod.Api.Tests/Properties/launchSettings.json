@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DataTrust.Pod.Api.Tests": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

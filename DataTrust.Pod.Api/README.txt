@@ -1,0 +1,11 @@
+﻿TODO
+- Add Swagger UI
+- Add Health checks
+- Add logging
+- Add metrics
+- Add validation (for venue checks) - or should this be in the registry API? => Location + user id lookup that user is registered
+- Pod automatic registration to the swarm
+-- On app start generate a RSA based cert using endpioint address as issuer
+-- POST public key to the central registry endpoint with the shared key and endpoint
+-- registry registers pod, stores public key and adds health check / metrics endpoint
+-- using that public key the registory can create bearer tokens to access the decode endpoint
