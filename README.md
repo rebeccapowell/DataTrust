@@ -3,7 +3,7 @@
 Experiments with third party data trust models.
 
 - Extending the existing JSON Web Token schema defintion to allow for encrypted claims - This repo
-- Shared key security crtptogrpahic models to allow threshold decryption (see my other work in the PVSS.NET repository)
+- Shared key security cryptographic models to allow threshold decryption (see my other work in the PVSS.NET repository)
 - Extending the data trustee model, to utilize blockchain contracts leveraging the etheruem network - todo
 
 # DataTrust.Pod.Api
