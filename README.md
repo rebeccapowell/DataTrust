@@ -1,6 +1,10 @@
 ![Logo](https://repository-images.githubusercontent.com/337559635/9498fd80-6b42-11eb-8b67-b97600166167)
 # DataTrust
-Experiments with third party data trust models
+Experiments with third party data trust models.
+
+- Extending the existing JSON Web Token schema defintion to allow for encrypted claims - This repo
+- Shared key security crtptogrpahic models to allow threshold decryption (see my other work in the PVSS.NET repository)
+- Extending the data trustee model, to utilize blockchain contracts leveraging the etheruem network - todo
 
 # DataTrust.Pod.Api
 This is a demonstration of how we can leverage existing security mechanisms built into OAuth using JWT (Json Web Tokens) and JWK (Json Web Keys), with a JWKS (Json Web Token Key Set).
