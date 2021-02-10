@@ -1,3 +1,4 @@
+![Logo](https://repository-images.githubusercontent.com/337559635/9498fd80-6b42-11eb-8b67-b97600166167)
 # DataTrust
 Experiments with third party data trust models
 
